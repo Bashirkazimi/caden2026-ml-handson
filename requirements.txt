@@ -1,0 +1,7 @@
+# Participant environment for the hands-on notebooks (Python >= 3.10).
+# The CPU build of torch is enough; on Colab everything is preinstalled.
+numpy>=1.21
+pillow>=9.0
+matplotlib>=3.5
+torch>=2.0
+jupyterlab>=4.0

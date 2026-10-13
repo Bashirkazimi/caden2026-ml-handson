@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+title: "Machine learning for materials data: hands-on (NFDI4ING Caden Summer School 2026)"
+message: >-
+  If you reuse this material, please cite it. If you use the data, please also
+  cite the original dataset and paper (Ackermann et al., 2022).
+type: software
+authors:
+  - given-names: Bashir
+    family-names: Kazimi
+    affiliation: "IAS-9, Forschungszentrum Juelich"
+license: MIT
+repository-code: "https://github.com/bashirkazimi/caden2026-ml-handson"
+date-released: 2026-10-14
+keywords:
+  - research data management
+  - machine learning
+  - image segmentation
+  - electron microscopy
+  - materials science
+  - FAIR
+references:
+  - type: dataset
+    title: "M-A island segmentation of bainite microstructures in SEM image data"
+    authors:
+      - family-names: Ackermann
+        given-names: Marc
+      - family-names: Iren
+        given-names: Deniz
+      - family-names: Wesselmecking
+        given-names: Sebastian
+      - family-names: Krupp
+        given-names: Ulrich
+      - family-names: Shetty
+        given-names: Deekshith
+    doi: 10.6084/m9.figshare.19232523.v2
+    year: 2022
+    license: MIT
+  - type: article
+    title: "Automated segmentation of martensite-austenite islands in bainitic steel"
+    authors:
+      - family-names: Ackermann
+        given-names: Marc
+    journal: "Materials Characterization"
+    volume: 191
+    doi: 10.1016/j.matchar.2022.112091
+    year: 2022

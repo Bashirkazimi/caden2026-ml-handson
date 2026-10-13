@@ -1,0 +1,14 @@
+# extracted data and notebook outputs
+data/ma_bainite_teaching/
+data/synthetic_stand_in/
+runs/
+**/runs/
+*.pt
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+.venv/
+
+# misc
+.DS_Store
